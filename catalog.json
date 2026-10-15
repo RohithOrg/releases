@@ -56,6 +56,12 @@
             "sha256": "c51df232cc8c0881b5a60c9a4b6f3c2baad6a74217e3a3fd984b04dccd84e44a",
             "signature": "032eea18df7fe4eebf51084c3d737a015ef14f387c44d430c38730f57070b9ae9bc3710c49b3cc1d153d83166bf31f545897b9530d04c8d2b5def0f93f9a5301"
           },
+          "windows-x86_64": {
+            "url": "https://github.com/RohithOrg/releases/releases/download/job-command-center-v0.1.0/job-command-center-0.1.0-windows-x86_64.exe",
+            "size": 66978338,
+            "sha256": "56d9c77605e35bae93ac5a4d5f3c9ffdfb50258fa5779a4523fadbc1f55ec9c7",
+            "signature": "ec3a129b4a89acdde433f7bc409bd4874ac188760f8d55da0eb9ab824b65c8f8d2796dfea353acd5c9cf1ab004789f04eba52152ff037be0d3682130fb53350f"
+          },
           "macos-aarch64": {
             "url": "https://github.com/RohithOrg/releases/releases/download/job-command-center-v0.1.0/job-command-center-0.1.0-macos-aarch64.dmg",
             "size": 79749698,
