@@ -1,0 +1,27 @@
+{
+  "suite": "Hangar",
+  "apps": [
+    {
+      "id": "hangar",
+      "name": "Hangar",
+      "tagline": "Installs, opens and updates these apps",
+      "color": "#1B1F27",
+      "icon": "https://raw.githubusercontent.com/RohithOrg/releases/main/icons/hangar.png",
+      "mac_bundle": "Hangar.app",
+      "windows_exe": "hangar.exe",
+      "homepage": "",
+      "latest": null
+    },
+    {
+      "id": "job-command-center",
+      "name": "Job Command Center",
+      "tagline": "Tailored, ATS-checked resumes from job postings",
+      "color": "#0F7A66",
+      "icon": "https://raw.githubusercontent.com/RohithOrg/releases/main/icons/job-command-center.png",
+      "mac_bundle": "Job Command Center.app",
+      "windows_exe": "job-command-center.exe",
+      "homepage": "",
+      "latest": null
+    }
+  ]
+}
