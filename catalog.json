@@ -17,9 +17,9 @@
         "assets": {
           "macos-aarch64": {
             "url": "https://github.com/RohithOrg/releases/releases/download/hangar-v0.1.0/hangar-0.1.0-macos-aarch64.dmg",
-            "size": 10193840,
-            "sha256": "ba551096f64b355cbdb52f341cb6b20263b883d9b51a77b402ab9691b42378a9",
-            "signature": "9808b00ccfc48ab5844b486ef203b379dcbe308e79bcfdf460af80cc318a23a881aa41c6a320f3788efaad1fb13d8c07e5e2567a9afe0128d8cf22198800bf04"
+            "size": 10407432,
+            "sha256": "ccdadcd2789c135d83353dbea4f2daadf9d1b9da25ec484682823615e9faab8a",
+            "signature": "6e6c6bd2b43a2352d1d4720e1170ff960a38dc431ff6de3b3325133abff9c4cea65494ddfebd6058cb24f76d1d762a9d2bcc3895e80435754011fdee1f7d9800"
           }
         }
       }
