@@ -15,6 +15,18 @@
         "date": "2026-10-15",
         "notes": "First release of Hangar: install, open and update the suite apps from one place.",
         "assets": {
+          "windows-x86_64": {
+            "url": "https://github.com/RohithOrg/releases/releases/download/hangar-v0.1.0/hangar-0.1.0-windows-x86_64.exe",
+            "size": 8754555,
+            "sha256": "6398f981e322d241278ef5845c91584ea5bd2edc65881547e3ede22df45ff7c5",
+            "signature": "e98c948a24a16a20cee050ed9621e6675d7e29a872c830c3c31d5860319b2340c5d6f646f4c1d9067b480fec2913219841c737ab211d17c5a6c0281f314ebd0f"
+          },
+          "linux-x86_64": {
+            "url": "https://github.com/RohithOrg/releases/releases/download/hangar-v0.1.0/hangar-0.1.0-linux-x86_64.AppImage",
+            "size": 13736440,
+            "sha256": "5bed35c2e16eb4d6e9d0e7c60bb995b16880d249ec727a07eeabbdf3e073e471",
+            "signature": "9e9cffbfc5b4c4de5c1b1fb6d434c86ec4330cb15f721e127c000579e68e351c68c39d60c0455974c0c82b74aedd2a88292b42a4ff3069224be00815c83b7c0c"
+          },
           "macos-aarch64": {
             "url": "https://github.com/RohithOrg/releases/releases/download/hangar-v0.1.0/hangar-0.1.0-macos-aarch64.dmg",
             "size": 10407432,
