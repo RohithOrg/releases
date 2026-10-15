@@ -46,9 +46,9 @@
           },
           "macos-aarch64": {
             "url": "https://github.com/RohithOrg/releases/releases/download/job-command-center-v0.1.0/job-command-center-0.1.0-macos-aarch64.dmg",
-            "size": 76154883,
-            "sha256": "cdf391d5cfc9ca76405d640a0ac857ed20aa64469c2e69198effd947e68c4b55",
-            "signature": "b7f68e0a448cd0bfd1f8184524433533345b7fbea57c81437a1b35ed25e4d744d51eb7db16300fe045e5e23303d7227d0674f8a15feb3641456620e6bc02420d"
+            "size": 79749698,
+            "sha256": "8785a5d749ef29a7f91983b2aedc14e1bb97c7771f976df9ca9d8b4eea37ead4",
+            "signature": "1382b1a4ac13cbf7b950c808ef93b3e61077c75b0dfc16516693ed3cf37e46372fbc148a545c1dae8cd705d12401248cac1f86d954b210d1d2fb9fa394a9500c"
           }
         }
       }
