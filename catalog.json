@@ -21,7 +21,25 @@
       "mac_bundle": "Job Command Center.app",
       "windows_exe": "job-command-center.exe",
       "homepage": "",
-      "latest": null
+      "latest": {
+        "version": "0.1.0",
+        "date": "2026-10-15",
+        "notes": "First release.\n\n- Tailored resumes with an ATS check for every job\n- Q&A per application\n- Use it from your phone (Settings > Phone and web)",
+        "assets": {
+          "linux-x86_64": {
+            "url": "https://github.com/RohithOrg/releases/releases/download/job-command-center-v0.1.0/job-command-center-0.1.0-linux-x86_64.AppImage",
+            "size": 79387128,
+            "sha256": "c51df232cc8c0881b5a60c9a4b6f3c2baad6a74217e3a3fd984b04dccd84e44a",
+            "signature": "032eea18df7fe4eebf51084c3d737a015ef14f387c44d430c38730f57070b9ae9bc3710c49b3cc1d153d83166bf31f545897b9530d04c8d2b5def0f93f9a5301"
+          },
+          "macos-aarch64": {
+            "url": "https://github.com/RohithOrg/releases/releases/download/job-command-center-v0.1.0/job-command-center-0.1.0-macos-aarch64.dmg",
+            "size": 76154883,
+            "sha256": "cdf391d5cfc9ca76405d640a0ac857ed20aa64469c2e69198effd947e68c4b55",
+            "signature": "b7f68e0a448cd0bfd1f8184524433533345b7fbea57c81437a1b35ed25e4d744d51eb7db16300fe045e5e23303d7227d0674f8a15feb3641456620e6bc02420d"
+          }
+        }
+      }
     }
   ]
 }
