@@ -10,7 +10,19 @@
       "mac_bundle": "Hangar.app",
       "windows_exe": "hangar.exe",
       "homepage": "",
-      "latest": null
+      "latest": {
+        "version": "0.1.0",
+        "date": "2026-10-15",
+        "notes": "First release of Hangar: install, open and update the suite apps from one place.",
+        "assets": {
+          "macos-aarch64": {
+            "url": "https://github.com/RohithOrg/releases/releases/download/hangar-v0.1.0/hangar-0.1.0-macos-aarch64.dmg",
+            "size": 10193840,
+            "sha256": "ba551096f64b355cbdb52f341cb6b20263b883d9b51a77b402ab9691b42378a9",
+            "signature": "9808b00ccfc48ab5844b486ef203b379dcbe308e79bcfdf460af80cc318a23a881aa41c6a320f3788efaad1fb13d8c07e5e2567a9afe0128d8cf22198800bf04"
+          }
+        }
+      }
     },
     {
       "id": "job-command-center",
