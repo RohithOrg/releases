@@ -46,27 +46,27 @@
       "windows_exe": "job-command-center.exe",
       "homepage": "",
       "latest": {
-        "version": "0.1.6",
+        "version": "0.1.7",
         "date": "2026-11-12",
-        "notes": "Job Command Center 0.1.6\n\n- Plain-language setup: the first-run screen explains API keys (pay per use, not a chat subscription), links to where you get one, and offers Ollama or LM Studio as a free option.\n- Fixed the setup card cutting off its last line and button.\n- Mac app is sealed with a signature so a downloaded copy no longer reports as damaged.\n- README with screenshots, install steps for Mac, Windows and Linux, and a one-command way to run from source.\n- MIT license.\n- Update from inside the app: Today shows \"Install and restart\" when a new version is out; downloads are checked against the release key before anything is replaced.\n- Agent rules rewritten; clearer fact check on dropped roles.",
+        "notes": "Job Command Center 0.1.7\n\n- Choose the model from a dropdown: the list is fetched as soon as your key is in. Optional backup model in Settings.\n- Gemini preset fixed (the old name no longer exists on Google's API).\n- When a model answers with text instead of data, the error shows what it said.",
         "assets": {
           "linux-x86_64": {
-            "url": "https://github.com/RohithOrg/releases/releases/download/job-command-center-v0.1.6/job-command-center-0.1.6-linux-x86_64.AppImage",
-            "size": 79436280,
-            "sha256": "f9509ff8566ae00572dca380b4d9d9a1ed4f224b54cdb5aef64f5ef2af4fa5a0",
-            "signature": "c91b070de2da5fff52c4ffa90640be5a84dcde0d44fe495c2eaaa90d022929bb9052fdef2be9b76c1ec2d0def06c0cad2c9059257f6a3330e8ec4b0245215d06"
+            "url": "https://github.com/RohithOrg/releases/releases/download/job-command-center-v0.1.7/job-command-center-0.1.7-linux-x86_64.AppImage",
+            "size": 79456760,
+            "sha256": "7cbd4a8f7e66a510e0ed5f5ed159c9e312715aec64b6d3a7b88ecd7b2c29462b",
+            "signature": "22b4a76bf20f7407192f3bbca63e2dab95d1573ad8b580cf30755ba9e4bc4e7ff795d4c654ecb5474977c77d189da67e1c4b5e833fb5e6590863ec676257800c"
           },
           "windows-x86_64": {
-            "url": "https://github.com/RohithOrg/releases/releases/download/job-command-center-v0.1.6/job-command-center-0.1.6-windows-x86_64.exe",
-            "size": 67064552,
-            "sha256": "2ded1e2c52887ace91ff9398c9fd32b512b43a1c620f1b28b2e14cc5de22e3c8",
-            "signature": "5fe318981ac42ba9d397660a1cc3ebbf0c06d1eaceeda863adf0486a32bfec0595ce194e5358ac9dd2b63008a115d50d2b0811063d30f44da3f499da51b1030a"
+            "url": "https://github.com/RohithOrg/releases/releases/download/job-command-center-v0.1.7/job-command-center-0.1.7-windows-x86_64.exe",
+            "size": 67072970,
+            "sha256": "d7c369b6ddbee0aef57c1b3a1b2633a74d2310d8690639c3ad35de91faac644a",
+            "signature": "d7eef325801d7d855a9ad27b551a1ef4ad203bd1cc4b3996d72f9b83041f308199b55abaddf4ff500b26c95d32329012ed1e83e4a343759ca998a4f6426d1f0b"
           },
           "macos-aarch64": {
-            "url": "https://github.com/RohithOrg/releases/releases/download/job-command-center-v0.1.6/job-command-center-0.1.6-macos-aarch64.dmg",
-            "size": 80625885,
-            "sha256": "ff83a7fb26c4b87cb8431893489c3b4343405f8dfeb21e21d4dd62bdf3fbbb02",
-            "signature": "5b5c5c960b1398a1d7eec2d4b5ea4063eedee1c03dbb75dab1e72c77a2398f3c31552c3fd115df50d38109a184a169ba6a69617119b397260f97e277ac3cb80a"
+            "url": "https://github.com/RohithOrg/releases/releases/download/job-command-center-v0.1.7/job-command-center-0.1.7-macos-aarch64.dmg",
+            "size": 80826337,
+            "sha256": "ab0f20035fc2d62a2ec50c29a9567551d0d4b63dd2b03e5c3111f41113554c03",
+            "signature": "2c893d0adf2ac2fcad50eaf42e1235efe7969781ee23ffe94114f0fcd02fef04425fb0c987e17b5048fb26549b200c2ed8a895dc63a1daab6a16e1477916d900"
           }
         }
       }
