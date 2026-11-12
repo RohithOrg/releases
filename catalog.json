@@ -11,27 +11,27 @@
       "windows_exe": "hangar.exe",
       "homepage": "",
       "latest": {
-        "version": "0.1.0",
-        "date": "2026-10-15",
-        "notes": "First release of Hangar: install, open and update the suite apps from one place.",
+        "version": "0.1.1",
+        "date": "2026-11-12",
+        "notes": "Hangar 0.1.1\n\n- Mac app signed with Developer ID and notarized: opens with no security warning.\n- MIT license.",
         "assets": {
-          "windows-x86_64": {
-            "url": "https://github.com/RohithOrg/releases/releases/download/hangar-v0.1.0/hangar-0.1.0-windows-x86_64.exe",
-            "size": 8754555,
-            "sha256": "6398f981e322d241278ef5845c91584ea5bd2edc65881547e3ede22df45ff7c5",
-            "signature": "e98c948a24a16a20cee050ed9621e6675d7e29a872c830c3c31d5860319b2340c5d6f646f4c1d9067b480fec2913219841c737ab211d17c5a6c0281f314ebd0f"
-          },
           "linux-x86_64": {
-            "url": "https://github.com/RohithOrg/releases/releases/download/hangar-v0.1.0/hangar-0.1.0-linux-x86_64.AppImage",
-            "size": 13736440,
-            "sha256": "5bed35c2e16eb4d6e9d0e7c60bb995b16880d249ec727a07eeabbdf3e073e471",
-            "signature": "9e9cffbfc5b4c4de5c1b1fb6d434c86ec4330cb15f721e127c000579e68e351c68c39d60c0455974c0c82b74aedd2a88292b42a4ff3069224be00815c83b7c0c"
+            "url": "https://github.com/RohithOrg/releases/releases/download/hangar-v0.1.1/hangar-0.1.1-linux-x86_64.AppImage",
+            "size": 13715960,
+            "sha256": "4b4ccbb158cb743a8285498bc8aef7776831c3b346d84a0790a11a7cb07f27e8",
+            "signature": "e54dbd92805274cabf66243f9e7effac7bffbb9d1ed50abaf513ad9cb4df35197597a26df296766d8b6707f33831a7c02d56f7c4dbd948cba70941a1a30c6505"
+          },
+          "windows-x86_64": {
+            "url": "https://github.com/RohithOrg/releases/releases/download/hangar-v0.1.1/hangar-0.1.1-windows-x86_64.exe",
+            "size": 8762350,
+            "sha256": "522a2050d536ce94e2ee5e158b3a18fbd459899dbb3320b4965664f6192d4320",
+            "signature": "edcd367abfe95a525167b1388799fa9503772f30cbf5f08a90eb5ec1b2e07ade8650b4de347b0f99d91983485bd0f627aa7b87643aab9918789cb540a566ee01"
           },
           "macos-aarch64": {
-            "url": "https://github.com/RohithOrg/releases/releases/download/hangar-v0.1.0/hangar-0.1.0-macos-aarch64.dmg",
-            "size": 10407432,
-            "sha256": "ccdadcd2789c135d83353dbea4f2daadf9d1b9da25ec484682823615e9faab8a",
-            "signature": "6e6c6bd2b43a2352d1d4720e1170ff960a38dc431ff6de3b3325133abff9c4cea65494ddfebd6058cb24f76d1d762a9d2bcc3895e80435754011fdee1f7d9800"
+            "url": "https://github.com/RohithOrg/releases/releases/download/hangar-v0.1.1/hangar-0.1.1-macos-aarch64.dmg",
+            "size": 10561982,
+            "sha256": "c05cc1b2e1efe1ed8d650d2f903289cf8bca17e13ebb7b5d49197c38fda57fdf",
+            "signature": "91cdd583d43a6c71cb614724e6e4efd857a1814e68ee38960c14ea314c6d3283829d3b72ac7423eff06289088768162c5b47c0d5da68b31b6d6663a179195c0c"
           }
         }
       }
